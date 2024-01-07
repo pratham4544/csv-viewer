@@ -1,7 +1,6 @@
 streamlit
 pandas
 qrcode
-base64
 io
 numpy
 PIL
